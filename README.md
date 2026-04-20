@@ -17,6 +17,7 @@ A secure and scalable backend service for a virtual stock trading platform built
 
 ## Project Structure
 
+```text
 backend/
 ├── src/
 │   ├── main/
@@ -35,6 +36,8 @@ backend/
 ├── Dockerfile
 ├── mvnw
 └── mvnw.cmd
+```
+
 
 ---
 
